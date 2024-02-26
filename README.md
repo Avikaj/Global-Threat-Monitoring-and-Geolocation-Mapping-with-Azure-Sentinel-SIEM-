@@ -12,10 +12,14 @@ This repository contains the code and documentation for a cybersecurity project 
 4. Use a custom PowerShell script to extract the attackers Geolocation information from the attackers' IP addresses.
 5. Plot it on the Azure Sentinel Map to get a clear view of locations of the origin of the attacks and enhanced threat intelligence.
 
-##Query entry after setting up a honeypot and attracting live attacks
-![Alt text](https://drive.google.com/file/d/1LQzo1pTTneja1d8BiLnerr0kgX84cHBI/view?usp=sharing)
+## Query entry after setting up a honeypot and attracting live attacks
 
 
+<img width="1510" alt="Screenshot 2024-02-25 at 4 23 11 PM" src="https://github.com/Avikaj/Global-Threat-Monitoring-and-Geolocation-Mapping-with-Azure-Sentinel-SIEM-/assets/151662350/465d9cb4-69a0-449a-8234-bdd51695a6b4">
+
+## View of locations of origin of attacks on the Azure Senitel Map
+
+<img width="1077" alt="Screenshot 2024-02-25 at 4 22 46 PM" src="https://github.com/Avikaj/Global-Threat-Monitoring-and-Geolocation-Mapping-with-Azure-Sentinel-SIEM-/assets/151662350/7ab63faf-b7fb-4045-8273-6073705eeb33">
 
 
 
