@@ -13,10 +13,7 @@ This repository contains the code and documentation for a cybersecurity project 
 5. Plot it on the Azure Sentinel Map to get a clear view of locations of the origin of the attacks and enhanced threat intelligence.
 
 ##Query entry after setting up a honeypot and attracting live attacks
-
-
-<img src="https://drive.google.com/drive/u/7/home" alt="Alt text">
-
+![Alt text](https://drive.google.com/file/d/1LQzo1pTTneja1d8BiLnerr0kgX84cHBI/view?usp=sharing)
 
 
 
