@@ -12,6 +12,9 @@ This repository contains the code and documentation for a cybersecurity project 
 4. Use a custom PowerShell script to extract the attackers Geolocation information from the attackers' IP addresses.
 5. Plot it on the Azure Sentinel Map to get a clear view of locations of the origin of the attacks and enhanced threat intelligence.
 
+##Query entry after setting up a honeypot and attracting live attacks
+
+
 
 
 
