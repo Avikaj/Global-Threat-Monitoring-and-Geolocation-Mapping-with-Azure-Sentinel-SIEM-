@@ -1,0 +1,31 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2759
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 latitude:47.91542,longitude:-120.60306,destinationhost:samplehost,username:fakeuser,sourcehost:24.16.97.222,state:Washington,country:United States,label:United States - 24.16.97.222,timestamp:2021-10-26 03:28:29\
+latitude:-22.90906,longitude:-47.06455,destinationhost:samplehost,username:lnwbaq,sourcehost:20.195.228.49,state:Sao Paulo,country:Brazil,label:Brazil - 20.195.228.49,timestamp:2021-10-26 05:46:20\
+latitude:52.37022,longitude:4.89517,destinationhost:samplehost,username:CSNYDER,sourcehost:89.248.165.74,state:North Holland,country:Netherlands,label:Netherlands - 89.248.165.74,timestamp:2021-10-26 06:12:56\
+latitude:40.71455,longitude:-74.00714,destinationhost:samplehost,username:ADMINISTRATOR,sourcehost:72.45.247.218,state:New York,country:United States,label:United States - 72.45.247.218,timestamp:2021-10-26 10:44:07\
+latitude:33.99762,longitude:-6.84737,destinationhost:samplehost,username:AZUREUSER,sourcehost:102.50.242.216,state:Rabat-Sal\'e9-K\'e9nitra,country:Morocco,label:Morocco - 102.50.242.216,timestamp:2021-10-26 11:03:13\
+latitude:-5.32558,longitude:100.28595,destinationhost:samplehost,username:Test,sourcehost:42.1.62.34,state:Penang,country:Malaysia,label:Malaysia - 42.1.62.34,timestamp:2021-10-26 11:04:45\
+latitude:41.05722,longitude:28.84926,destinationhost:samplehost,username:AZUREUSER,sourcehost:176.235.196.111,state:Istanbul,country:Turkey,label:Turkey - 176.235.196.111,timestamp:2021-10-26 11:50:47\
+latitude:55.87925,longitude:37.54691,destinationhost:samplehost,username:Test,sourcehost:87.251.67.98,state:null,country:Russia,label:Russia - 87.251.67.98,timestamp:2021-10-26 12:13:45\
+latitude:52.37018,longitude:4.87324,destinationhost:samplehost,username:AZUREUSER,sourcehost:20.86.161.127,state:North Holland,country:Netherlands,label:Netherlands - 20.86.161.127,timestamp:2021-10-26 12:33:46\
+latitude:17.49163,longitude:-88.18704,destinationhost:samplehost,username:Test,sourcehost:45.227.254.8,state:null,country:Belize,label:Belize - 45.227.254.8,timestamp:2021-10-26 13:13:25\
+latitude:-55.88802,longitude:37.65136,destinationhost:samplehost,username:Test,sourcehost:94.232.47.130,state:Central Federal District,country:Russia,label:Russia - 94.232.47.130,timestamp:2021-10-26 14:25:33\
+latitude:,longitude:,destinationhost:honeypot,username:ajain,sourcehost:68.180.6.24,state:, country:,label: - 68.180.6.24,timestamp:2024-02-23 22:35:53\
+latitude:,longitude:,destinationhost:honeypot,username:ADMINISTRATOR,sourcehost:143.110.172.155,state:, country:,label: - 143.110.172.155,timestamp:2024-02-24 01:27:21\
+latitude:,longitude:,destinationhost:honeypot,username:ADMINISTRATOR,sourcehost:143.110.172.155,state:, country:,label: - 143.110.172.155,timestamp:2024-02-24 01:33:51\
+latitude:,longitude:,destinationhost:honeypot,username:ADMINISTRATOR,sourcehost:143.110.172.155,state:, country:,label: - 143.110.172.155,timestamp:2024-02-24 01:41:16\
+latitude:,longitude:,destinationhost:honeypot,username:AZUREUSER,sourcehost:143.110.172.155,state:, country:,label: - 143.110.172.155,timestamp:2024-02-24 01:48:16\
+latitude:,longitude:,destinationhost:honeypot,username:AZUREUSER,sourcehost:143.110.172.155,state:, country:,label: - 143.110.172.155,timestamp:2024-02-24 01:55:17\
+latitude:,longitude:,destinationhost:honeypot,username:AZUREUSER,sourcehost:143.110.172.155,state:, country:,label: - 143.110.172.155,timestamp:2024-02-24 02:01:36\
+latitude:,longitude:,destinationhost:honeypot,username:STUDENT,sourcehost:143.110.172.155,state:, country:,label: - 143.110.172.155,timestamp:2024-02-24 02:07:45\
+latitude:,longitude:,destinationhost:honeypot,username:STUDENT,sourcehost:143.110.172.155,state:, country:,label: - 143.110.172.155,timestamp:2024-02-24 02:27:39\
+latitude:,longitude:,destinationhost:honeypot,username:STUDENT,sourcehost:143.110.172.155,state:, country:,label: - 143.110.172.155,timestamp:2024-02-24 02:33:56\
+latitude:41.65281,longitude:-83.53787,destinationhost:honeypot,username:ajain,sourcehost:68.180.6.24,state:Ohio, country:United States,label:United States - 68.180.6.24,timestamp:2024-02-24 04:22:03\
+latitude:41.65281,longitude:-83.53787,destinationhost:honeypot,username:ajain7,sourcehost:68.180.6.24,state:Ohio, country:United States,label:United States - 68.180.6.24,timestamp:2024-02-24 04:50:18\
+}
